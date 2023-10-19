@@ -1,0 +1,18 @@
+current directory: /Users/usuimasaya/workspace/playroom/javascript-game/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/usuimasaya/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/usuimasaya/workspace/playroom/javascript-game/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231019-79047-yh1o6l sitelibdir\=./.gem.20231019-79047-yh1o6l clean
+
+current directory: /Users/usuimasaya/workspace/playroom/javascript-game/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231019-79047-yh1o6l sitelibdir\=./.gem.20231019-79047-yh1o6l
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/usuimasaya/workspace/playroom/javascript-game/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231019-79047-yh1o6l sitelibdir\=./.gem.20231019-79047-yh1o6l install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20231019-79047-yh1o6l/bootsnap
+
+current directory: /Users/usuimasaya/workspace/playroom/javascript-game/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231019-79047-yh1o6l sitelibdir\=./.gem.20231019-79047-yh1o6l clean
